@@ -1,0 +1,12 @@
+Objetivos de la Seguridad Informática
+.
+    Objetivos principales:
+    
+        • Proteger la infraestructura tecnológica
+        • Proteger la información
+        .
+        Elementos de un sistema informático
+        • Información, actúa como un elemento activo para tomar decisiones de negocio.
+        • Usuarios, les dan tratamiento a los datos para que el mismo se convierta en información
+        • Infraestructura tecnológica, es en donde se almacena, donde vive la información
+        • Infraestructura física, entorno físico de la información.
