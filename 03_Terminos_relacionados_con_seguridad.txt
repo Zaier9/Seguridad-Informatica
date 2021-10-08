@@ -1,0 +1,15 @@
+Términos relacionados con la Seguridad Informática
+
+Activo: Cualquier dato, dispositivo u otro componente del entorno que apoya actividades relacionadas con la información.
+
+Amenaza: Circunstancia que tiene el potencial de causar daños o pérdidas.
+
+Ataque: Acción organizada con intención de causar daños o problemas a un sistema informático o red.
+
+Control: Acción que se implementa para evitar la materialización de un riesgo.
+
+Impacto: Efecto económico, operativo o reputacional causado por la materialización del riesgo.
+
+Riesgo: “Evento o condición incierta que, si se produce tiene un efecto positivo o negativo en los objetivos de un proyecto”. PMBOK Guide
+
+Vulnerabilidad: Debilidad del sistema informático que puede ser utilizada para causar daño.
