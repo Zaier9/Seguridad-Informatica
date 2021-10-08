@@ -1,0 +1,13 @@
+En este modelo TCP/IP también estamos hablando de capas, ya no son siete sino que son 4.
+
+Acceso a Red: 
+    Establecemos reglas de envío.
+
+Internet: 
+    Se encarga de la salida de paquete de datos.
+
+Transporte: 
+    Direccionamiento y mejor ruta, esta se encarga de llevar un mejor flujo de datos.
+
+Aplicación: 
+    Interactúa con el usuario por medio de los protocolos como SMTP, FTP, Telnet, etc
