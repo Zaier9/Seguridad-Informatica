@@ -1,0 +1,16 @@
+Principios básicos en la Seguridad Informática:
+
+Mínimo privilegio: 
+    * Al usuario se le deben entregar unos permisos para los que están contratados, los necesarios para desarrollar sus funciones dentro de una organización. Ni más ni menos de lo solicitado.
+
+Eslabón más débil: 
+    * La seguridad de un sistema es tan fuerte como su parte más débil. Un atacante primero analiza cuál es el punto más débil del sistema y concentra sus esfuerzos en ese lugar. Los atacantes siempre va a buscar al usuario.
+
+Proporcionalidad: 
+    * Las medidas de seguridad estarán en correspondencia con la importancia de lo que se protege y con el nivel de riesgo existente.
+
+Dinamismo: 
+    * La seguridad informática no es un producto, es un proceso. No se termina con la implementación de los medios tecnológicos, se requiere permanentemente monitoreo y mantenimiento.
+
+Participación Universal: 
+    * Es necesario contar con una participación activa de los colaboradores internos para apoyar el sistema de seguridad establecido. Todos lo usuarios deben estar protegidos y participes del proceso de Seguridad Informática.
