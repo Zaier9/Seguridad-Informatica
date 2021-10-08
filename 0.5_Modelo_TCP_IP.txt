@@ -11,3 +11,10 @@ Transporte:
 
 Aplicación: 
     Interactúa con el usuario por medio de los protocolos como SMTP, FTP, Telnet, etc
+
+
+Los protocolos fueron desarrollados a mediados de la década de los 70 como parte del proyecto DARPA, una agencia de los Estados Unidos que se encarga de todos los elementos de seguridad nacional. Ellos necesitaban la capacidad de interconectar redes y lo solucionaron, en parte, gracias a los protocolos TCP/IP.
+
+Estos protocolos ahora son un estándar y utilizamos diferentes tecnologías o arquitecturas para comunicarnos a través de redes en nuestras organizaciones, incluso, entre diferentes organizaciones. Por ejemplo, cuando usamos los servicios web de nuestras empresas.
+
+Recuerda tener muy presentes estos grupos y protocolos porque su nivel determina qué tan vulnerables son nuestros los servicios de comunicación de nuestras compañías. Los debemos configurar de forma que garanticen la seguridad del sistema.
