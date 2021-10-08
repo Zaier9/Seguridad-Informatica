@@ -1,0 +1,10 @@
+Principios Fundamentales de la Información
+
+Confidencialidad:
+    La información tiene que ser consultada por usuarios debidamente autorizados
+
+Disponibilidad:
+    La información debe estár disponible cuando la organización la requiera.
+
+Integridad:
+    Los datos deben ser modificados por los usuarios o procesos autorizados.
