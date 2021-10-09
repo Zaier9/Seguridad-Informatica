@@ -1,0 +1,27 @@
+Aspesctos de seguridad que debemos tener en cuenta en las tres primeras capas. Física, Enlace de Datos y Red.
+
+Capa Física: Tenemos dos tipos de elementos que debemos tener en cuenta a la hora de configurar.
+
+    Mecánicos:
+        * Medio de transmisión
+        * Canal de comunicaciones, fibra óptica, enlace d
+        edicado.
+    Eléctricos:
+        * Potencia
+        * Regulación de frecuencia
+
+Capa de Enlace:
+
+    * Control de direcciones de Hardware
+    * Auditoría de configuración de Bridge o Switch
+    * Análisis de tráfico y colisiones
+    * Detección de Sniffers
+    * Evaluación de puntos de acceso WiFi
+    * Evaluación de dispositivos Bluetooth
+
+Capa de Red:
+
+    * Auditorías en Router
+    * Auditorías de tráfico ICMP
+    * Auditoría ARP
+    * Auditoría de direccionamiento IP

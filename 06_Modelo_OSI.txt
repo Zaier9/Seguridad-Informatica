@@ -7,16 +7,16 @@ En la capa de Enlace:
     De Datos trabajos los switches, los elementos que van a poder interconectar segmentos de la red.
 
 En Red:
-    Hablamos de direccionamiento IP, Enrutamiento
+    Hablamos de direccionamiento IP, Enrutamiento.
 
 En la capa de Transporte:
     TCP-UDP siendo estos otros protocolos.
 
 En la capa de Sesión:
-    Veremos como se comunican y como administramos las sesiones entre host
+    Veremos como se comunican y como administramos las sesiones entre host.
 
 En la capa de Presentación:
     Estandarización de la forma en que se presentan los datos.
 
 En la capa de Aplicación:
-    Ya es donde nuestras aplicaciones interactúan directamente con los usuarios.
+    Ya es donde nuestras aplicaciones interactúan directamente con los usuarios (FTP, SSH, SMTP, POPS).
