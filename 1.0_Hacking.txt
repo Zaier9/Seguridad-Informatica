@@ -1,0 +1,10 @@
+Un Hacking es aprovechar las vulnerabilidades de un sistema para tener acceso y violar los controles de seguridad para luego sacar un beneficio. 
+Implica modificar las características del sistema o de la aplicación para lograr un objetivo fuera del propósito original de los creadores.
+
+Fases del Hacking:
+
+    * Recolección de Información: Conocido como el footprinting. La fase preparatoria en la que un atacante busca reunir información sobre un objetivo antes de lanzar un ataque.
+    * Escaneo y enumeración: Es la fase del pre-ataque cuando el atacante escanea la red del objetivo basándose en la información recopilada durante el footprinting.
+    * Ganado Acceso: Se refiere al punto donde el atacante obtiene acceso al sistema operativo a aplicaciones en la computadora o la red.
+    * Manteniendo Acceso: Es la fase en la que el atacante intenta retener su “propiedad” en el sistema. Pueden cargar, descargar o manipular datos, aplicaciones y configuraciones en las propiedades del sistema.
+    * Limpiando Huellas: Las intenciones del atacante incluyen: continuar con el acceso al sistema de la víctima, permanecer desapercibido y no ser detectado, borrar las pruebas que pueden conducir a su enjuiciamiento.
