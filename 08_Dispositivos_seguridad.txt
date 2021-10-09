@@ -22,3 +22,14 @@ Algunos de los dispositivos básicos e importantes a la hora de hablar de Seguri
     * Características: 
         * La detección de intrusos se realiza comparando las firmas de las actividades sospechosas con las firmas de las actividades ya conocidas y que se incluyen en un fichero ya conocido.
         * Un sistema de IPS debe disponer de un sistema de actualización continuo mediante el cual el fichero que contiene los identificadores de intrusiones se actualizará en todo momento.
+
+    Tipos:
+        Red:
+            * Proteger segmentos enteros de la red o zonas a las que tienen acceso.
+            * Capturan paquetes del tráfico de red(sniffers) y  los analizan en busca de patrones que puedan suponer algún tipo de ataque.
+            * Trabajan no solo a nivel TCP/IP, sino que también lo pueden hacer a nivel aplicación.
+
+        Host:
+            * Se limitan a proteger un solo equipo.
+            * Monitorean gran cantidad de eventos y actividades con gran precisión.
+            * Recaban información del sistema como ficheros, logs y recursos para su posterior análisis en busca de posibles incidencias dentro del propio sistema, en modo local.
