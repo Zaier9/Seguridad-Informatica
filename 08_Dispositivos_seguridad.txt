@@ -3,6 +3,7 @@ Dispositivos de seguridad informática: Firewalls - Honeypot - Antivirus - Anti-
 Algunos de los dispositivos básicos e importantes a la hora de hablar de Seguridad Informática
 
 * Firewall: Se encarga de determinar el tráfico, monitorear el tráfico de entrada y salida para así determinar si es posible que continúe a su punto de destino o deba ser bloqueado, todo esto dependiendo de un conjunto de reglas.
+    
     * Software: Es el que tenemos dentro de nuestras computadoras como el de Windows.
     * Hardware: Es el que esta especifico en un punto de la red. Tiene más cobertura.
 
