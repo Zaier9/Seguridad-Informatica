@@ -8,6 +8,9 @@ Algunos de los dispositivos básicos e importantes a la hora de hablar de Seguri
     * Hardware: Es el que esta especifico en un punto de la red. Tiene más cobertura.
 
 * Honeypot: Son equipos que se muestran como vulnerables, monitorean tráfico entrante y saliente. Un atacante vería estos equipos como su punto de entrada, pero estos no van a permitir a que el ataque salga del equipo. Solo va a generar alertas.
+    * Características:
+        * Un equipo informático cualquiera que analice el tráfico entrante y saliente hacia Internet.
+        * Red de equipos, con diversos sistemas, y servicios cuando uno de los equipos es atacado inmediatamente es informado el administrador de sistemas.
 
 * Antivirus: Es un programa que analiza los archivos que se encuentren en una máquina local y archivos que quieran entrar a la máquina. Analiza los archivos contra base de datos de virus ya conocidas.
 
@@ -16,3 +19,6 @@ Algunos de los dispositivos básicos e importantes a la hora de hablar de Seguri
 * VPN: Virtual Private Network. Van a proteger nuestro tráfico de red cuando nos conectemos a otros dispositivos. Las VPN nos garantizan nos coloque el tráfico en un túnel de manera que no pueda ser visto.
 
 * IPS: Intrusion Prevention System. Es parte básica de una infraestructura de seguridad. Realizará una revisión de todo el tráfico que esta fluyendo para detectar cuál de ellos puede ser de un intruso, todo esto gracias a un conjunto de acciones predefinidas.
+    * Características: 
+        * La detección de intrusos se realiza comparando las firmas de las actividades sospechosas con las firmas de las actividades ya conocidas y que se incluyen en un fichero ya conocido.
+        * Un sistema de IPS debe disponer de un sistema de actualización continuo mediante el cual el fichero que contiene los identificadores de intrusiones se actualizará en todo momento.
