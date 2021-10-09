@@ -1,0 +1,14 @@
+Hacker es un término utilizado para referirse a una persona que posee conocimientos técnicos avanzados y usa este conocimiento para acceder a nuestro sistema de información aprovechando las vulnerabilidades y buscando afectar los tres pilares de la información.
+
+    * Hacker: “Expertos en seguridad informática”
+    * Cracker: “Pirata informático”
+
+Clases de Hacker:
+
+    * Black Hats: Son los conocidos como Crackers. Utilizan el conocimiento para comprometer sistemas o infraestructuras para sacar un beneficio.
+    * White Hats: Personas con habilidades de hacking usadas para propósitos defensivos de una organización que nos contrata.
+    * Gray Hats: Personas que trabajan en acciones defensivas u ofensivas varias veces, trabajan para ambos bandos.
+    * Suicide Hackers: No toman medidas de protección necesarias para no ser descubiertos. Normalmente, pueden ser aprendices o personas que quieren hacer manifestaciones políticas.
+    * Script Kiddies: Son hackers nuevos que no son muy expertos con las herramientas de desarrollo y utilizan software malicioso creado por otros.
+    * Cyberterrorists: Se encargan de atacar países para generar inestabilidad en un gobierno.
+    * Hacktivist: Hackers que piensan que piratear puede provocar cambios sociales, así que, atacan al gobierno u otras organizaciones para mostrar su incomodidad con algunos temas.
