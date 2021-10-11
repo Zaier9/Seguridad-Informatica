@@ -4,16 +4,29 @@ Un Evento de Seguridad es una ocurrencia identificada del estado de un sistema i
 
 ¿Cómo responder ante un incidente de seguridad?
 
-    * Preparación: Estimamos las necesidades y establecemos procedimientos
+    1 Preparación:
+        * Estimar necesidades:
+            * Colaboradores que va a realizar la gestion de incidentes.
+            * Documentación de los sistemas y redes que se usan en la empresa.
+            * Centros de respuesta ante incidentes de organismos externos en los cuales apoyarnos.
+        * Establecer procedimientos:
+            * Definir una política de gestión de incidentes.
+            * Acciones a seguir en caso de que se presente una ocurrencia.
+            * Monitoreo y Clasificación de las incidencias que tengan mayor probabilidad de ocurrir.
     
-    * Detección y Análisis: Es identificar los signos inusuales que pueden generar dicho incidente.
+    2 Detección y Análisis: Es identificar los signos inusuales que pueden generar dicho incidente.
     
-    * Identificación: Identificamos qué tipo de incidente fue y ocurrió, qué tan grave puede ser.
+    3 Identificación: Identificamos qué tipo de incidente fue y ocurrió, qué tan grave puede ser.
     
-    * Notificación: Reportamos, notificamos y registramos el incidente
+    4 Notificación: Reportamos, notificamos y registramos el incidente
     
-    * Clasificación y priorización: Debemos determinar el tipo de incidente, clasificarlo y así saber qué tan grave es y qué tanto nos puede afectar.
+    5 Clasificación y priorización: Debemos determinar el tipo de incidente, clasificarlo y así saber qué tan grave es y qué tanto nos puede afectar.
+        * Tipo de amenaza.
+        * Origen de la amenaza.
+        * Categoría de seguridad o criticidad de los sistemas afectados.
+        * El perfil de los usuarios afectados.
+        * El número y tipología de los sistemas afectados.
     
-    * Contención, resolución y recuperación: Detenemos el ataques y evitar que se propague. Resolvemos el incidente. Recuperamos los datos.
+    6 Contención, resolución y recuperación: Detenemos el ataques y evitar que se propague. Resolvemos el incidente. Recuperamos los datos.
     
-    * Acciones posteriores al cierre: Lecciones aprendidas. Identificamos las causas del incidente, por qué pasó y cómo podemos hacer para qué no vuelva a pasar.
+    7 Acciones posteriores al cierre: Lecciones aprendidas. Identificamos las causas del incidente, por qué pasó y cómo podemos hacer para qué no vuelva a pasar.
