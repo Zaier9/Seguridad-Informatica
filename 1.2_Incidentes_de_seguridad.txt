@@ -1,0 +1,19 @@
+Un Incidente de seguridad es solo un evento o una serie de eventos inesperados o no deseados que tienen una probabilidad significativa de comprometer las operaciones comerciales y amenazan la seguridad de la información.
+
+Un Evento de Seguridad es una ocurrencia identificada del estado de un sistema indicando una posible violación de la política de la seguridad de la información o una situación previamente desconocida que puede ser relevante para la seguridad.
+
+¿Cómo responder ante un incidente de seguridad?
+
+    * Preparación: Estimamos las necesidades y establecemos procedimientos
+    
+    * Detección y Análisis: Es identificar los signos inusuales que pueden generar dicho incidente.
+    
+    * Identificación: Identificamos qué tipo de incidente fue y ocurrió, qué tan grave puede ser.
+    
+    * Notificación: Reportamos, notificamos y registramos el incidente
+    
+    * Clasificación y priorización: Debemos determinar el tipo de incidente, clasificarlo y así saber qué tan grave es y qué tanto nos puede afectar.
+    
+    * Contención, resolución y recuperación: Detenemos el ataques y evitar que se propague. Resolvemos el incidente. Recuperamos los datos.
+    
+    * Acciones posteriores al cierre: Lecciones aprendidas. Identificamos las causas del incidente, por qué pasó y cómo podemos hacer para qué no vuelva a pasar.
