@@ -1,0 +1,11 @@
+COBIT(Control Objectives for Information and Related technologies): Es un marco de referencias de ISACA. Lo componen cinco dominios distribuidos en una serie de procesos y en unos objetivos de control. Gestionar Seguridad hace parte de uno de los que es Alinear, Planear y Organizar.
+
+ITIL(Information Techonology Infraestructure Library): Está distribuido en cinco fases(Mejora continua, Estrategia, Diseño, Transición, Operación). Acá también podemos extraer buenas prácticas importantes que nos permitirán organizar nuestro información relacionada a la seguridad.
+
+OWASP(Open Web Application Security Project): Es un proyecto que revisa los riesgos que existen en las aplicaciones web.
+
+CIS(Critical Security Controls): Entrega veinte controles básicos que deberían ser cumplidos en una organización cuando hablamos de seguridad según esta metodología.
+
+NIST(National Institute of Standards and Techonology): Es un framework o un marco de trabajo enfocado a seguridad desarrollado por el gobierno de Estados Unidos. Define cinco fases para implementar. Identificar, Proteger, Detectar, Cómo responder y cómo recuperar.
+
+ISO27001: Enfocada al tema de la seguridad de la información con dieciocho objetivos de control.
