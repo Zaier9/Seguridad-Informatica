@@ -1,0 +1,24 @@
+La ingeniería Social es el arte de convencer a las personas para que revelen información confidencial. Los objetivos comunes de la ingeniería social incluyen personal de mesa de ayuda, agentes de soporte técnico.
+
+Fases de un ataque:
+
+    * Obtener Información
+    * Seleccionar la víctima
+    * Desarrollar la relación
+    * Explotar la relación
+
+Tipos de Ataques
+
+    * Basada en seres humanos y relaciones interpersonales: Suplantación, disfraz o en persona.
+    * Basadas en sistemas: Ventanas pop-ups, archivos adjuntos, phishing
+
+Contramedidas para la Ingeniería Social:
+
+    * Definición de políticas de password:
+    * Políticas de seguridad física
+    * Entrenamiento a empleados
+    * Clasificación de información
+    * Definición de lineamientos operacionales
+    * Doble factor de autenticación
+    * Instalación de software Antivirus
+    * Terminación adecuada de relaciones laborales.
