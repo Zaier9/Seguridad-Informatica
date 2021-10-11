@@ -1,0 +1,3 @@
+El _email tracking _ es una técnica que nos permite rastrear nuestros correos electrónicos enviados para obtener información (hora, localización geográfica, datos del navegador y el sistema operativo, entre otras) en cuanto es abierto o leído por el destinatario.
+
+Vamos a usar la herramienta ReadNotify que nos permite registrarnos de forma gratuita para realizar estas técnicas a un máximo de 30 correos electrónicos diferentes. Si quieres utilizar este software de manera ilimitada debes pagar por la versión avanzada.
